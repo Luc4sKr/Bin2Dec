@@ -4,5 +4,6 @@ Este é um projeto desenvolvido com React e TypeScript que permite converter nú
 
 ## Tecnologias utilizadas
 
-* React: Uma biblioteca JavaScript para construção de interfaces de usuário.
-* TypeScript: Um superset de JavaScript que adiciona tipagem estática ao código.
+* React
+* TypeScript
+* Vite
