@@ -7,7 +7,7 @@ function App() {
 		<>
 			<Navbar />
 
-			<div>
+			<div className="container">
 				<Converter />
 			</div>
 		</>
